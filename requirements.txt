@@ -1,0 +1,6 @@
+numpy>=1.24,<3
+pandas>=2.0,<3
+requests>=2.31,<3
+beautifulsoup4>=4.12,<5
+yfinance>=0.2.54,<1
+pytest>=8,<9
