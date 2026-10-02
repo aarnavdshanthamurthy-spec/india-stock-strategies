@@ -123,4 +123,6 @@ python3 -m pytest tests -q
 
 - [@ayaan-amodia](https://github.com/ayaan-amodia) — project contributor credit.
 
+See [CONTRIBUTORS.md](CONTRIBUTORS.md) for the contributor attribution record.
+
 Credit does not grant collaborator permissions. This public repository is readable by everyone; no contributor write or admin access is granted by this README.
